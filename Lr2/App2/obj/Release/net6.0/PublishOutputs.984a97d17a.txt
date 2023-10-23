@@ -1,0 +1,5 @@
+C:\Users\raek0\OneDrive\Документы\GitHub\System-software\Lr2\App2\bin\Release\net6.0\publish\App2.exe
+C:\Users\raek0\OneDrive\Документы\GitHub\System-software\Lr2\App2\bin\Release\net6.0\publish\App2.dll
+C:\Users\raek0\OneDrive\Документы\GitHub\System-software\Lr2\App2\bin\Release\net6.0\publish\App2.deps.json
+C:\Users\raek0\OneDrive\Документы\GitHub\System-software\Lr2\App2\bin\Release\net6.0\publish\App2.runtimeconfig.json
+C:\Users\raek0\OneDrive\Документы\GitHub\System-software\Lr2\App2\bin\Release\net6.0\publish\App2.pdb

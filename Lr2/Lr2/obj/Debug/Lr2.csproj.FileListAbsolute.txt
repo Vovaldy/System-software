@@ -1,0 +1,11 @@
+C:\Users\raek0\OneDrive\Документы\GitHub\System-software\Lr2\Lr2\bin\Debug\Lr2.exe.config
+C:\Users\raek0\OneDrive\Документы\GitHub\System-software\Lr2\Lr2\bin\Debug\Lr2.exe
+C:\Users\raek0\OneDrive\Документы\GitHub\System-software\Lr2\Lr2\bin\Debug\Lr2.pdb
+C:\Users\raek0\OneDrive\Документы\GitHub\System-software\Lr2\Lr2\obj\Debug\Lr2.csproj.AssemblyReference.cache
+C:\Users\raek0\OneDrive\Документы\GitHub\System-software\Lr2\Lr2\obj\Debug\Lr2.csproj.SuggestedBindingRedirects.cache
+C:\Users\raek0\OneDrive\Документы\GitHub\System-software\Lr2\Lr2\obj\Debug\Lr2.Form1.resources
+C:\Users\raek0\OneDrive\Документы\GitHub\System-software\Lr2\Lr2\obj\Debug\Lr2.Properties.Resources.resources
+C:\Users\raek0\OneDrive\Документы\GitHub\System-software\Lr2\Lr2\obj\Debug\Lr2.csproj.GenerateResource.cache
+C:\Users\raek0\OneDrive\Документы\GitHub\System-software\Lr2\Lr2\obj\Debug\Lr2.csproj.CoreCompileInputs.cache
+C:\Users\raek0\OneDrive\Документы\GitHub\System-software\Lr2\Lr2\obj\Debug\Lr2.exe
+C:\Users\raek0\OneDrive\Документы\GitHub\System-software\Lr2\Lr2\obj\Debug\Lr2.pdb
